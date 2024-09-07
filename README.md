@@ -6,7 +6,7 @@ Hello everyone who reads this repository. I'm ~~done~~ finishing CNuteConsole. A
 - [✅] Creating the main.c file
 - [✅] Display title text with file name.
 - [✅] Ability to use Up, Down, Right, Left keys and key escape - for exit.
-- [❌] Ability to view file contents and vertical scrolling.
+- [✅] Ability to view file contents and vertical scrolling.
 - [❌] Saving changes made
 
 
